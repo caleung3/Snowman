@@ -6,17 +6,21 @@ void setup(){
 void draw(){
   //more of your code here
   
-fill(172, 145, 230);
-ellipse(300, 180, 100, 108);
+fill(255, 131, 0);
+ellipse(300, 180, 200, 216);
 
-fill(172, 145, 230);
-ellipse(300, 116, 64, 55);
+fill(254, 216, 177);
+ellipse(300, 80, 128, 110);
 
-ellipse(350, 190, 20, 70);
-ellipse(250, 190, 20, 70);
+ellipse(390, 195, 40, 140);
+ellipse(210, 195, 40, 140);
 
-ellipse(315,116,5,5);
-ellipse(285,116,5,5);
+fill(0,0,0);
+ellipse(325,105,10,10);
+ellipse(275,105,10,10);
+
+fill(254, 216, 177);
+ellipse(330, 275, 40, 60);
+ellipse(270, 275, 40, 60);
 
 }
-
