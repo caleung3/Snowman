@@ -1,3 +1,9 @@
+void setup ()
+{
+size(600,600)
+}
+void draw(){
+
 //backround
 background(135,206,305);
 fill(255,255,0);
@@ -46,3 +52,4 @@ fill(255, 165, 0);
 rect(500,260,30,100);
 fill(0,128,0);
 ellipse(515,260,100,150);
+}
