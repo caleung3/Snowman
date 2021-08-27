@@ -1,6 +1,6 @@
 void setup ()
 {
-size(600,600)
+size(700,700);
 }
 void draw()
 {
@@ -40,8 +40,6 @@ triangle(350,125,350,120,330,130);
 strokeWeight(10);
 line(390, 180, 440, 270);
 line(310, 180, 260, 270);
-
-size(700,700);
 
 strokeWeight(1);
 fill(255, 165, 0);
